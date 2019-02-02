@@ -4,15 +4,23 @@
     
     <url>
     
-      <loc>https://laravomfell.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <loc>https://laravomfell.github.io/publications/crime_counts/</loc>
+      <lastmod>2018-09-01T00:00:00+01:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://laravomfell.github.io/publication/</loc>
+      <loc>https://laravomfell.github.io/post/</loc>
+      <lastmod>2018-10-14T02:15:45+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laravomfell.github.io/publications/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -21,7 +29,23 @@
     <url>
     
       <loc>https://laravomfell.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-10-14T02:15:45+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laravomfell.github.io/publications/classification/</loc>
+      <lastmod>2016-08-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laravomfell.github.io/publications/marketplaces/</loc>
+      <lastmod>2015-04-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -29,14 +53,24 @@
     <url>
     
       <loc>https://laravomfell.github.io/author/admin/</loc>
+      <lastmod>2019-01-20T13:08:23+00:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://laravomfell.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00+01:00</lastmod>
+      <loc>https://laravomfell.github.io/publication_types/2/</loc>
+      <lastmod>2018-09-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laravomfell.github.io/publication_types/3/</loc>
+      <lastmod>2015-04-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -68,7 +102,62 @@
     
     <url>
     
+      <loc>https://laravomfell.github.io/authors/fabian-schomm/</loc>
+      <lastmod>2016-08-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laravomfell.github.io/authors/florian-stahl/</loc>
+      <lastmod>2016-08-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laravomfell.github.io/authors/gottfried-vossen/</loc>
+      <lastmod>2016-08-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laravomfell.github.io/</loc>
+      <lastmod>2019-01-20T13:08:23+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laravomfell.github.io/authors/lara-vomfell/</loc>
+      <lastmod>2018-09-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://laravomfell.github.io/publication_types/</loc>
+      <lastmod>2018-09-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laravomfell.github.io/authors/stefan-lessmann/</loc>
+      <lastmod>2018-09-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -77,6 +166,15 @@
     <url>
     
       <loc>https://laravomfell.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laravomfell.github.io/authors/wolfgang-karl-h%C3%A4rdle/</loc>
+      <lastmod>2018-09-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
