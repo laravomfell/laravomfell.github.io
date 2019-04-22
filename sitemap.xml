@@ -1,11 +1,107 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
     <url>
     
+      <loc>https://laravomfell.github.io/publication_types/3/</loc>
+      <lastmod>2019-04-22T16:02:23+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laravomfell.github.io/authors/</loc>
+      <lastmod>2019-04-22T16:02:23+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laravomfell.github.io/authors/lara-vomfell/</loc>
+      <lastmod>2019-04-22T16:02:23+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laravomfell.github.io/</loc>
+      <lastmod>2019-04-22T16:02:23+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laravomfell.github.io/authors/neil-stewart/</loc>
+      <lastmod>2019-04-22T16:02:23+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laravomfell.github.io/publication/ethnic_bias/</loc>
+      <lastmod>2019-04-22T16:02:23+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laravomfell.github.io/publication_types/</loc>
+      <lastmod>2019-04-22T16:02:23+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laravomfell.github.io/publication/policy/</loc>
+      <lastmod>2019-04-22T16:02:23+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laravomfell.github.io/publication_types/2/</loc>
+      <lastmod>2019-04-22T16:02:23+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://laravomfell.github.io/publication/crime_counts/</loc>
-      <lastmod>2019-02-02T18:04:52+00:00</lastmod>
+      <lastmod>2019-04-22T16:02:23+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laravomfell.github.io/authors/stefan-lessmann/</loc>
+      <lastmod>2019-04-22T16:02:23+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laravomfell.github.io/authors/wolfgang-karl-h%C3%A4rdle/</loc>
+      <lastmod>2019-04-22T16:02:23+01:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -20,14 +116,6 @@
     
     <url>
     
-      <loc>https://laravomfell.github.io/publication/</loc>
-      <lastmod>2019-02-02T18:04:52+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://laravomfell.github.io/talk/</loc>
       <lastmod>2018-10-14T02:15:45+01:00</lastmod>
     </url>
@@ -36,66 +124,16 @@
     
     <url>
     
+      <loc>https://laravomfell.github.io/publication/</loc>
+      <lastmod>2019-04-22T16:02:23+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://laravomfell.github.io/publication/classification/</loc>
       <lastmod>2019-02-02T18:04:52+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://laravomfell.github.io/publication/marketplaces/</loc>
-      <lastmod>2019-02-02T18:04:52+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://laravomfell.github.io/author/admin/</loc>
-      <lastmod>2019-02-02T18:01:23+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://laravomfell.github.io/publication_types/2/</loc>
-      <lastmod>2019-02-02T18:04:52+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://laravomfell.github.io/publication_types/3/</loc>
-      <lastmod>2019-02-02T18:04:52+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://laravomfell.github.io/author/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://laravomfell.github.io/authors/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://laravomfell.github.io/categories/</loc>
-      <priority>0</priority>
     </url>
     
   
@@ -129,8 +167,8 @@
     
     <url>
     
-      <loc>https://laravomfell.github.io/</loc>
-      <lastmod>2019-02-02T18:01:23+00:00</lastmod>
+      <loc>https://laravomfell.github.io/tags/deep-learning/</loc>
+      <lastmod>2019-04-22T16:02:23+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -138,27 +176,8 @@
     
     <url>
     
-      <loc>https://laravomfell.github.io/authors/lara-vomfell/</loc>
-      <lastmod>2019-02-02T18:04:52+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://laravomfell.github.io/publication_types/</loc>
-      <lastmod>2019-02-02T18:04:52+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://laravomfell.github.io/authors/stefan-lessmann/</loc>
-      <lastmod>2019-02-02T18:04:52+00:00</lastmod>
-      <priority>0</priority>
+      <loc>https://laravomfell.github.io/project/</loc>
+      <lastmod>2019-04-22T16:02:23+01:00</lastmod>
     </url>
     
   
@@ -166,6 +185,7 @@
     <url>
     
       <loc>https://laravomfell.github.io/tags/</loc>
+      <lastmod>2019-04-22T16:02:23+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -173,8 +193,31 @@
     
     <url>
     
-      <loc>https://laravomfell.github.io/authors/wolfgang-karl-h%C3%A4rdle/</loc>
+      <loc>https://laravomfell.github.io/publication/marketplaces/</loc>
       <lastmod>2019-02-02T18:04:52+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laravomfell.github.io/author/admin/</loc>
+      <lastmod>2019-02-05T08:57:53+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laravomfell.github.io/author/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://laravomfell.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
