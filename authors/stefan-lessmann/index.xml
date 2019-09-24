@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://laravomfell.github.io/authors/stefan-lessmann/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Improving crime count forecasts using Twitter and taxi data</title>
       <link>https://laravomfell.github.io/publication/crime_counts/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0100</pubDate>
       
       <guid>https://laravomfell.github.io/publication/crime_counts/</guid>
       <description></description>
