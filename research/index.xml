@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Lara Vomfell</title>
-    <link>https://laravomfell.github.io/post/</link>
-    <description>Recent content in Posts on Lara Vomfell</description>
+    <title>Research on Lara Vomfell</title>
+    <link>https://laravomfell.github.io/research/</link>
+    <description>Recent content in Research on Lara Vomfell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://laravomfell.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://laravomfell.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
