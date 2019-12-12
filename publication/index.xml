@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research on Lara Vomfell</title>
+    <title>Publications on Lara Vomfell</title>
     <link>https://laravomfell.github.io/publication/</link>
-    <description>Recent content in Research on Lara Vomfell</description>
+    <description>Recent content in Publications on Lara Vomfell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://laravomfell.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Differences in police officer experience and attitude are not the origin of ethnic bias in stop and search</title>
       <link>https://laravomfell.github.io/publication/ethnic_bias/</link>
-      <pubDate>Wed, 30 Oct 2019 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://laravomfell.github.io/publication/ethnic_bias/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>To fix disproportionality, we have to fix disproportionality reporting</title>
       <link>https://laravomfell.github.io/publication/policy/</link>
-      <pubDate>Sat, 20 Apr 2019 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0100</pubDate>
       
       <guid>https://laravomfell.github.io/publication/policy/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Improving crime count forecasts using Twitter and taxi data</title>
       <link>https://laravomfell.github.io/publication/crime_counts/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0100</pubDate>
       
       <guid>https://laravomfell.github.io/publication/crime_counts/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>A classification framework for data marketplaces</title>
       <link>https://laravomfell.github.io/publication/classification/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0100</pubDate>
       
       <guid>https://laravomfell.github.io/publication/classification/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Marketplaces for digital data: Quo vadis?</title>
       <link>https://laravomfell.github.io/publication/marketplaces/</link>
-      <pubDate>Wed, 01 Apr 2015 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0100</pubDate>
       
       <guid>https://laravomfell.github.io/publication/marketplaces/</guid>
       <description></description>
