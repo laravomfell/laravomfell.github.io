@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Lara Vomfell</title>
-    <link>https://laravomfell.github.io/author/</link>
-    <description>Recent content in Authors on Lara Vomfell</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    
-	<atom:link href="https://laravomfell.github.io/author/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Authors | Lara Vomfell</title>
+    <link>/author/</link>
+      <atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hu28a7bc66d17ea2bbff66edf5fa1b6cbe_10256_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>/author/</link>
+    </image>
     
   </channel>
 </rss>

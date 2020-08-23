@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neil Stewart | Lara Vomfell</title>
+    <link>/author/neil-stewart/</link>
+      <atom:link href="/author/neil-stewart/index.xml" rel="self" type="application/rss+xml" />
+    <description>Neil Stewart</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu28a7bc66d17ea2bbff66edf5fa1b6cbe_10256_512x512_fill_lanczos_center_2.png</url>
+      <title>Neil Stewart</title>
+      <link>/author/neil-stewart/</link>
+    </image>
+    
+    <item>
+      <title>Officer bias in stop and search is exacerbated by deployment decisions</title>
+      <link>/publication/ethnic_bias/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <guid>/publication/ethnic_bias/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

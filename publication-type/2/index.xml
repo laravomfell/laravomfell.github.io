@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Lara Vomfell</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu28a7bc66d17ea2bbff66edf5fa1b6cbe_10256_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Improving crime count forecasts using Twitter and taxi data</title>
+      <link>/publication/crime_counts/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0100</pubDate>
+      <guid>/publication/crime_counts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A classification framework for data marketplaces</title>
+      <link>/publication/classification/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0100</pubDate>
+      <guid>/publication/classification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

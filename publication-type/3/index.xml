@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Lara Vomfell</title>
+    <link>/publication-type/3/</link>
+      <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu28a7bc66d17ea2bbff66edf5fa1b6cbe_10256_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Officer bias in stop and search is exacerbated by deployment decisions</title>
+      <link>/publication/ethnic_bias/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <guid>/publication/ethnic_bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketplaces for digital data: Quo vadis?</title>
+      <link>/publication/marketplaces/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0100</pubDate>
+      <guid>/publication/marketplaces/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

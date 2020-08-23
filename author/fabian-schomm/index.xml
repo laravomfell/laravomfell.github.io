@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabian Schomm | Lara Vomfell</title>
+    <link>/author/fabian-schomm/</link>
+      <atom:link href="/author/fabian-schomm/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fabian Schomm</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu28a7bc66d17ea2bbff66edf5fa1b6cbe_10256_512x512_fill_lanczos_center_2.png</url>
+      <title>Fabian Schomm</title>
+      <link>/author/fabian-schomm/</link>
+    </image>
+    
+    <item>
+      <title>A classification framework for data marketplaces</title>
+      <link>/publication/classification/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0100</pubDate>
+      <guid>/publication/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketplaces for digital data: Quo vadis?</title>
+      <link>/publication/marketplaces/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0100</pubDate>
+      <guid>/publication/marketplaces/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
