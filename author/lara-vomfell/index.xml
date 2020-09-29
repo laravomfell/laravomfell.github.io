@@ -5,12 +5,44 @@
     <link>/author/lara-vomfell/</link>
       <atom:link href="/author/lara-vomfell/index.xml" rel="self" type="application/rss+xml" />
     <description>Lara Vomfell</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu28a7bc66d17ea2bbff66edf5fa1b6cbe_10256_512x512_fill_lanczos_center_2.png</url>
       <title>Lara Vomfell</title>
       <link>/author/lara-vomfell/</link>
     </image>
+    
+    <item>
+      <title>Officer bias in stop and search is exacerbated by deployment decisions</title>
+      <link>/publication/ethnic_bias/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <guid>/publication/ethnic_bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving crime count forecasts using Twitter and taxi data</title>
+      <link>/publication/crime_counts/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0100</pubDate>
+      <guid>/publication/crime_counts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A classification framework for data marketplaces</title>
+      <link>/publication/classification/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0100</pubDate>
+      <guid>/publication/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketplaces for digital data: Quo vadis?</title>
+      <link>/publication/marketplaces/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0100</pubDate>
+      <guid>/publication/marketplaces/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
